@@ -1,5 +1,3 @@
-import React from 'react'
-
 const StartSelling = () => {
     return (
         <div className=" px-5 py-8 lg:px-10 xl:px-16 lg:py-6 h-screen flex flex-col justify-center items-center">
@@ -16,10 +14,10 @@ const StartSelling = () => {
                     <h1 className="text-3xl text-center md:text-start lg:text-5xl font-bold leading-12 lg:leading-20">List products today.</h1>
                     <h1 className="text-xl text-[#2462e9] text-center md:text-start lg:text-3xl font-bold pb-6 leading-12 lg:leading-20">Get sales tomorrow.</h1>
                     <p className="text-base md:text-lg text-center md:text-start ">
-                        Sell your digital products on Codestam Store. Get the exposure, sales, feedback, and new customers you've been searching for.
+                        Sell your digital products on Codestam Store. Get the exposure, sales, feedback, and new customers you&apos;ve been searching for.
                     </p>
                     <div className="mt-6 py-3 flex justify-center md:justify-start">
-                        <button className=" rounded-lg text-black hover:text-white  bg-white px-6 py-3 hover:bg-[#2462e9] transition-all duration-300 ease-in-out ">Start Selling</button>
+                        <a href='https://store.codestam.com/how-to-become-seller' className=" rounded-lg text-black hover:text-white  bg-white px-6 py-3 hover:bg-[#2462e9] transition-all duration-300 ease-in-out ">Start Selling</a>
                     </div>
                 </div>
 
