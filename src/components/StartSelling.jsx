@@ -17,7 +17,7 @@ const StartSelling = () => {
                         Sell your digital products on Codestam Store. Get the exposure, sales, feedback, and new customers you&apos;ve been searching for.
                     </p>
                     <div className="mt-6 py-3 flex justify-center md:justify-start">
-                        <a href='https://store.codestam.com/how-to-become-seller' className=" rounded-lg text-black hover:text-white  bg-white px-6 py-3 hover:bg-[#2462e9] transition-all duration-300 ease-in-out ">Start Selling</a>
+                        <a href='https://store.codestam.com/seller-portal' className=" rounded-lg text-black hover:text-white  bg-white px-6 py-3 hover:bg-[#2462e9] transition-all duration-300 ease-in-out ">Start Selling</a>
                     </div>
                 </div>
 

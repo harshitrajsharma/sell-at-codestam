@@ -14,7 +14,7 @@ const C1 = () => {
           Add your pre built digital products with
         </p> */}
         <div>
-          <a href="https://store.codestam.com/how-to-become-seller" className='text-white px-4 py-1 border-2 font-bold rounded bg-[#2d272785] hover:bg-[#2d2727ab] border-gray-800 hover:border-gray-900 hover:scale-[1.05]'>Start Selling</a>
+          <a href="https://store.codestam.com/seller-portal" className='text-white px-4 py-1 border-2 font-bold rounded bg-[#2d272785] hover:bg-[#2d2727ab] border-gray-800 hover:border-gray-900 hover:scale-[1.05]'>Start Selling</a>
         </div>
       </div>
       <div className=' md:w-[60%] flex flex-col gap-4 '>
