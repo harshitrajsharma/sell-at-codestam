@@ -3,7 +3,7 @@ import { launchData } from "./launchData"
 
 const Launchs = () => {
     return (
-        <div className="flex flex-col gap-6 px-8 md:px-16 lg:px-16 py-8">
+        <div className="flex flex-col gap-6 py-8">
             <div className=' text-center flex flex-col items-center justify-center gap-4 py-6'>
                 <h1 className=' text-4xl font-bold'>We've launched thousands of digital <br /> products-yours can be one of them.</h1>
             </div>

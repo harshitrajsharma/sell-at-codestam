@@ -4,7 +4,7 @@ import C2 from './C2'
 
 const outer = () => {
   return (
-    <div className=' px-8 md:px-16 lg:px-16 py-8  flex flex-col gap-6'>
+    <div className=' py-8  flex flex-col gap-6'>
       <div className=' text-center flex flex-col items-center justify-center gap-4 py-12'>
         <h1 className=' text-4xl font-bold'>Sell <span className=' text-[#2462e9]'>Digital Products </span>and Earn</h1>
         <p className=' text-gray-300 sm:w-[50%]'>

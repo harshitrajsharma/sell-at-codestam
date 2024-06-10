@@ -3,7 +3,7 @@ import { howData } from "./HowCardData"
 
 const HowWorks = () => {
     return (
-        <div className="flex flex-col gap-6 px-8 md:px-16 lg:px-16 py-8">
+        <div className="flex flex-col gap-6  py-8">
             <div className=' text-center flex flex-col items-center justify-center gap-4 py-6'>
                 <h1 className=' text-4xl font-bold'>How <span className=' text-[#2462e9]'>Codestam Store </span> works</h1>
                 <div className=" w-28 h-1 bg-white rounded-full" ></div>
